@@ -1,5 +1,6 @@
-## Hi there 👋
+# Welcome to Bikbee Platform 👋
 
+### Have a good day!
 <!--
 
 **Here are some ideas to get you started:**
